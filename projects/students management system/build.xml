@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="ADS_PROJECT" default="default" basedir=".">
+    <description>Builds, tests, and runs the project ADS_PROJECT.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
